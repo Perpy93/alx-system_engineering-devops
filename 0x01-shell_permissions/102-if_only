@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --fromguillame betty hello_
+chown --fromguillaume betty hello_
