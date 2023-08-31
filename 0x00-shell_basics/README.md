@@ -1,1 +1,1 @@
-project directory
+my read me for shell permission
